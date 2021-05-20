@@ -1,10 +1,10 @@
 # build-coffee
 
-[![apm](https://img.shields.io/apm/l/build-coffee.svg?style=flat-square)](https://atom.io/packages/build-coffee)
-[![apm](https://img.shields.io/apm/v/build-coffee.svg?style=flat-square)](https://atom.io/packages/build-coffee)
-[![apm](https://img.shields.io/apm/dm/build-coffee.svg?style=flat-square)](https://atom.io/packages/build-coffee)
+[![apm](https://flat.badgen.net/apm/license/build-coffee)](https://atom.io/packages/build-coffee)
+[![apm](https://flat.badgen.net/apm/v/build-coffee)](https://atom.io/packages/build-coffee)
+[![apm](https://flat.badgen.net/apm/dl/build-coffee)](https://atom.io/packages/build-coffee)
 [![CircleCI](https://flat.badgen.net/circleci/github/idleberg/atom-build-coffee)](https://circleci.com/gh/idleberg/atom-build-coffee)
-[![David](https://img.shields.io/david/idleberg/atom-build-coffee.svg?style=flat-square)](https://david-dm.org/idleberg/atom-build-coffee)
+[![David](https://flat.badgen.net/david/dev/idleberg/atom-build-coffee)](https://david-dm.org/idleberg/atom-build-coffee?type=dev)
 
 [Atom Build](https://atombuild.github.io/) provider for `coffee`, compiles CoffeeScript into JavaScript. Supports the [linter](https://atom.io/packages/linter) package for error highlighting.
 
